@@ -1,0 +1,7 @@
+[submodule "ecommerce-frontend"]
+    path = ecommerce-frontend
+    url = <lien SSH du repo du frontend>
+
+[submodule "ecommerce-backend"]
+    path = ecommerce-backend
+    url = <lien SSH du repo du backend>
