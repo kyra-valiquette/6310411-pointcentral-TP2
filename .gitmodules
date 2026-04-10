@@ -1,10 +1,3 @@
-[submodule "ecommerce-frontend"]
-    path = ecommerce-frontend
-    url = <lien SSH du repo du frontend>
-
-[submodule "ecommerce-backend"]
-    path = ecommerce-backend
-    url = <lien SSH du repo du backend>
 [submodule "6310411-blogverse-backend"]
 	path = 6310411-blogverse-backend
 	url = https://github.com/kyra-valiquette/6310411-blogverse-backend.git
